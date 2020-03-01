@@ -1,15 +1,15 @@
 {
   "posts": [
-    { "id": 1, "name": "Suç ve Ceza", "author": "Dostoyevski", "title": "Suç ve Ceza", "publisher": "Rus Habercisi" },
-    { "id": 2, "name": "Serenad", "author": "Zülfü Livaneli", "title": "Serenad", "publisher": "Doğan Kitap"  },
-    { "id": 3, "name": "Martin Eden", "author": "Jack London", "title": "Martin Eden", "publisher": "Macmillan Inc"  },
-    { "id": 4, "name": "Nietzsche Ağladığında", "author": "Irvin D. Yalom", "title": "Nietzsche Ağladığında", "publisher": "Ayrıntı Yayınları"  },
-    { "id": 5, "name": "Şeker Portakalı", "author": "José Mauro de Vasconcelos", "title": "Şeker Portakalı", "publisher": "Can Cocuk Yayınları"  },
-    { "id": 6, "name": "Bin Muhteşem Güneş", "author": "Khaled Hosseini", "title": "Bin Muhteşem Güneş", "publisher": "Riverhead Books"  },
-    { "id": 7, "name": "Kürk Mantolu Madonna", "author": "Sabahattin Ali", "title": "Kürk Mantolu Madonna", "publisher": "Yapı Kredi Yayınları"  },
-    { "id": 8, "name": "Hayvan Çiftliği", "author": "George Orwell", "title": "Hayvan Çiftliği", "publisher": "Secker and Warburg"  },
-    { "id": 9, "name": "1984", "author": "George Orwell", "title": "1984", "publisher": "Harvill Secker"  },
-    { "id": 10, "name": "Fedailerin Kalesi Alamut", "author": "Vladimir Bartol", "title": "Fedailerin Kalesi Alamut", "publisher": "Koridor" }
+    { "id": 1, "name": "Suç ve Ceza", "author": "Dostoyevski", "title": "Suç ve Ceza", "publisher": "Rus Habercisi", "publish-date": "1866" },
+    { "id": 2, "name": "Serenad", "author": "Zülfü Livaneli", "title": "Serenad", "publisher": "Doğan Kitap", "publish-date": "2011" },
+    { "id": 3, "name": "Martin Eden", "author": "Jack London", "title": "Martin Eden", "publisher": "Macmillan Inc", "publish-date": "1909" },
+    { "id": 4, "name": "Nietzsche Ağladığında", "author": "Irvin D. Yalom", "title": "Nietzsche Ağladığında", "publisher": "Ayrıntı Yayınları", "publish-date": "1992" },
+    { "id": 5, "name": "Şeker Portakalı", "author": "José Mauro de Vasconcelos", "title": "Şeker Portakalı", "publisher": "Can Cocuk Yayınları", "publish-date": "1968"  },
+    { "id": 6, "name": "Bin Muhteşem Güneş", "author": "Khaled Hosseini", "title": "Bin Muhteşem Güneş", "publisher": "Riverhead Books", "publish-date": "2007" },
+    { "id": 7, "name": "Kürk Mantolu Madonna", "author": "Sabahattin Ali", "title": "Kürk Mantolu Madonna", "publisher": "Yapı Kredi Yayınları", "publish-date": "1943"  },
+    { "id": 8, "name": "Hayvan Çiftliği", "author": "George Orwell", "title": "Hayvan Çiftliği", "publisher": "Secker and Warburg", "publish-date": "1945" },
+    { "id": 9, "name": "1984", "author": "George Orwell", "title": "1984", "publisher": "Harvill Secker", "publish-date": "1949" },
+    { "id": 10, "name": "Fedailerin Kalesi Alamut", "author": "Vladimir Bartol", "title": "Fedailerin Kalesi Alamut", "publisher": "Koridor", "publish-date": "1938"}
   ],
   "profile": {
     "name": "typicode"
