@@ -1,6 +1,11 @@
 {
   "posts": [
-    { "id": 1, "name": "Suç ve Ceza", "author": "Dostoyevski", "title": "Suç ve Ceza", "publisher": "Rus Habercisi", "publish-date": "1866" }
+    { "id": 1, "name": "Suç ve Ceza", "author": "Dostoyevski", "title": "Suç ve Ceza", "publisher": "Rus Habercisi", "publish-date": "1866" },
+    { "id": 2, "name": "Serenad", "author": "Zülfü Livaneli", "title": "Serenad", "publisher": "Doğan Kitap", "publish-date": "2011" },
+    { "id": 3, "name": "Martin Eden", "author": "Jack London", "title": "Martin Eden", "publisher": "Macmillan Inc", "publish-date": "1909" },
+    { "id": 4, "name": "Nietzsche Ağladığında", "author": "Irvin D. Yalom", "title": "Nietzsche Ağladığında", "publisher": "Ayrıntı Yayınları", "publish-date": "1992" },
+    { "id": 5, "name": "Şeker Portakalı", "author": "José Mauro de Vasconcelos", "title": "Şeker Portakalı", "publisher": "Can Cocuk Yayınları", "publish-date": "1968"  },
+    { "id": 6, "name": "Bin Muhteşem Güneş", "author": "Khaled Hosseini", "title": "Bin Muhteşem Güneş", "publisher": "Riverhead Books", "publish-date": "2007" }
   ],
   "profile": {
     "name": "typicode"
