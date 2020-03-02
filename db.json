@@ -9,7 +9,7 @@
     { "id": 7, "name": "Kürk Mantolu Madonna", "author": "Sabahattin Ali", "title": "Kürk Mantolu Madonna", "publisher": "Yapı Kredi Yayınları", "publish-date": "1943"  },
     { "id": 8, "name": "Hayvan Çiftliği", "author": "George Orwell", "title": "Hayvan Çiftliği", "publisher": "Secker and Warburg", "publish-date": "1945" },
     { "id": 9, "name": "1984", "author": "George Orwell", "title": "1984", "publisher": "Harvill Secker", "publish-date": "1949" },
-    { "id": 10, "name": "Fedailerin Kalesi Alamut", "author": "Vladimir Bartol", "title": "Fedailerin Kalesi Alamut", "publisher": "Koridor", "publish-date": "1938"}
+    { "id": 10, "name": "Fedailerin Kalesi Alamut", "author": "Vladimir Bartol", "title": "Fedailerin Kalesi Alamut", "publisher": "Koridor", "publish-date": "1938"},
     { "id": 11, "name": "Siyah Takım Elbiseli Adam", "author": "Stephen King", "title": "Siyah Takım Elbiseli Adam", "publisher": "İnka", "publish-date": "1994"}
   ],
   "profile": {
